@@ -31,6 +31,5 @@ Below is an example output of the generated 3D point cloud:
 ## 🚀 Next Steps
 
 - Improve filtering and denoising of point cloud
-- Export point clouds in `.pcd` or `.ply` formats
-- Integrate with SLAM or navigation systems
+- Real Time Point Clouds ROS-Based
 
