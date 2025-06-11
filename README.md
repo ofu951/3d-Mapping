@@ -12,7 +12,7 @@ This part of the project focuses on generating and visualizing a 3D point cloud 
 
 Below is an example output of the generated 3D point cloud:
 
-![3D Point Cloud](images/pointcloud_output.jpg)
+![3D Point Cloud](images/image2.jpg)
 
 > *Visual representation of a scanned tunnel using fused sensor data.*
 
