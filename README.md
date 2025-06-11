@@ -19,7 +19,7 @@ Below is an example output of the generated 3D point cloud:
 ## 💡 Use Cases
 
 - Subsea tunnel or pipeline inspection
-- Autonomous underwater vehicle (AUV) mapping
+- Remote Operated Vehicle (ROV) mapping
 - Real-time environmental reconstruction
 
 ## 🛠 Technologies Used
